@@ -136,6 +136,11 @@ bot.on('message', (msg) => {
 						{
 							text: 'Movies 🎥'
 						}
+                    ],
+                    [
+                        {
+                            text: 'Ortga ⬅'
+                        }
                     ]
                 ],
                 resize_keyboard: true
